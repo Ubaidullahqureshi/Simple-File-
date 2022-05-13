@@ -17,4 +17,5 @@ using namespace std;
 		out.close();
 		
 		return 0;
+	
 	}
