@@ -1,7 +1,8 @@
 #include<iostream>
 #include<fstream>
 using namespace std;
-	int main(){
+	int main()
+	{
 		ofstream out("test");
 	
 		if ( ! out )
