@@ -8,6 +8,7 @@ using namespace std;
 		if ( ! out )
 		{
 			cout << "Cannot open File ";
+			
 			return 1;
 		}
 		
