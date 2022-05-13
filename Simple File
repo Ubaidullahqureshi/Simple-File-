@@ -4,7 +4,8 @@ using namespace std;
 	int main(){
 		ofstream out("test");
 	
-		if ( ! out ){
+		if ( ! out )
+		{
 			cout << "Cannot open File ";
 			return 1;
 		}
